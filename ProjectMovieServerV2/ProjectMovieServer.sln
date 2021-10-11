@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectMovieServer", "ProjectMovieServer.csproj", "{58CB8DFC-1A20-400C-948B-34321A560F65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectMovieServerBL", "..\ProjectMovieServerBL\ProjectMovieServerBL.csproj", "{16773784-DADC-4263-A12F-73FE01FF6E03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58CB8DFC-1A20-400C-948B-34321A560F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58CB8DFC-1A20-400C-948B-34321A560F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58CB8DFC-1A20-400C-948B-34321A560F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58CB8DFC-1A20-400C-948B-34321A560F65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16773784-DADC-4263-A12F-73FE01FF6E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16773784-DADC-4263-A12F-73FE01FF6E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16773784-DADC-4263-A12F-73FE01FF6E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16773784-DADC-4263-A12F-73FE01FF6E03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4D93840-4A23-4B10-B1CD-7E7010256CD0}
+	EndGlobalSection
+EndGlobal
